@@ -36,3 +36,7 @@ code {
 .my-li {
   list-style: none;
 }
+
+.error-message {
+  color: red;
+}
