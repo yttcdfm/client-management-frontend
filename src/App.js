@@ -1,9 +1,10 @@
 import ClientTable from "./ClientTable";
+import Header from "./Header";
 
 function App() {
   return (
     <div className="App">
-      <p>顧客情報管理システム</p>
+      <Header />
       <ClientTable />
     </div>
   );

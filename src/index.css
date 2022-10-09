@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.my-header {
+  background-color: lightblue;
+  overflow: hidden;
+}
+
+.my-h1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  float: left;
+}
+
+.client-tabel {
+  clear: left;
+}
+
+.my-ul {
+  float: left;
+  margin-top: 18px;
+  margin-bottom: 0px;
+}
+
+.my-li {
+  list-style: none;
+}
